@@ -1,0 +1,1 @@
+(setq sbt-hydra:hydra-previous-commands '("gildedrose-d1egoaz/test:test" "scala/test:test" "scala/run " "scala/clean" "scala/test:compile" "scala/compile" "reload"))
